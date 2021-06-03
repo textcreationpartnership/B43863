@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rules of the schools at the Savoy</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43863</idno><idno type="EEBO-CITATION">625261313</idno>
+  <idno type="VID">211333</idno>
+  <idno type="EEBO-PROQUEST">2240866132</idno>
+  
+            <idno type="OCLC"> 625261313</idno>
+            <idno type="OCLC">ocn 625261313</idno>
+            <idno type="STC">Wing R2259A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211333)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2970:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rules of the schools at the Savoy</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills, printer to the Kings Most Excellent Majesty for his household and chappel, for him and Matthew Turner, at the Lamb in High Holborn,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: cropped with slight loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Savoy Schools (London, England) --  Regulations --  Early works to 1800.</term>
+               <term type="topical_term">Education --  England --  Early works to 1800.</term>
+               <term type="topical_term">Public schools --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="rules">
+            <pb facs="tcp:211333:1"/>
+            <pb facs="tcp:211333:2"/>
+            <head>THE Rules of the Schools AT THE SAVOY.</head>
+            <p n="1">I. THE Intention of Opening these Schools is, to Teach Youth Vertue and Learning; They shall be Taught <hi>Gratis;</hi> Nor shall they be at any farther Charges or Expences than the buying of their own Pens, Ink, Paper and Books.</p>
+            <p n="2">II. These Schools, are common to all, of what condition soever; and none shall be Excluded, when they shall be thought fit to begin to learn Latin, and Write sufficiently well: And in these Schools, shall be Taught, Greek and Latin: As also Poetry and Rhetorick, as they shall rise to higher Schools.</p>
+            <p n="3">III. And altho' Youths of different Professions, whether Catholics or Protestants, come to these Schools; yet in Teaching all, there shall be no distinction made, but all shall be Taught with equal Diligence and Care, and every one shall be promoted according to his Deserts.</p>
+            <p n="4">IV. There shall not be, either by Masters or Scholars, any tampering or medling, to perswade any one from the Profession of his own Religion; but there shall be all freedom for every one to Practice what Religion he shall please; and none shall be less esteemed or favored for being of a different Religion from others.</p>
+            <p n="5">V. None shall upbraid or reproach any one, on the account of Religion; and when any Exercise of Religion shall be Practised, as hearing Mass, Catechising or Preach<g ref="char:EOLhyphen"/>ing, or any other, it shall be lawful, for any Protestant, without any molestation or trouble, to absent himself from such Exercise, if he please.</p>
+            <p n="6">VI. All shall be Taught to keep Gods Commandments, and therefore none shal<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be permitted, to Lye, Swear, or Curse, or talk uncivil Discourse; Nor shall figh<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> or quarrel with one another; And he who shall be observed to fail in these Duties shall be punished according to his Demerit: And when any one for these or othe<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Faults shall be adjudged to any Chastisement, if he shall refuse to receive such Cha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stisement quietly, or be stubborn, he shall be Expel'd the Schools, and not be re<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>admitted again, until he shall have given satisfaction for such his Fault.</p>
+            <p n="7">VII. All shall be in their respective Schools, by a Quarter after Seven in the Mor<g ref="char:EOLhyphen"/>ning, and shall there stay until Ten: Again at a Quarter before Two, until half a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Hour after Four. Yet by reason of the shortness of the Days in Winter, the Mornin<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> time of the Schools, shall be Half an Hour later: Thus from All-Saints Day to Ca<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>delmas, they are to be in the Schools a Quarter before Eight, and stay till Half a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Hour after Ten; but in the Afternoon at the time before mentioned.</p>
+            <p n="8">VIII. The other Hours of the Day, they shall Study at their own Homes, a<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> prepare those Exercises, which the Masters in the Schools appoint to be brought,<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their next coming to the Schools. And therefore, all Parents are desired to allo<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their respective Scholars, such conveniency for their Studies at their own House that they may comply with those Duties which are appointed them.</p>
+            <p n="9">IX. All are required to be exact and diligent, in dayly frequenting the Schools and being there, none are to go out without leave of their Master; and when any on shall be absent from School, he shall the next Day he comes, bring from his Parents Ticket, of the lawfulness of such his Absence: Yet they shall have every Week tw<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Afternoons of Recreation, in which they come not to School; unless a Holy-da<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> happen that Week, which shall then be their Recreation-day.</p>
+            <p>
+               <hi>These Schools shall begin on</hi> Monday <hi>after Whitsun-week,</hi> May 23. 1687.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills,</hi> Printer to the Kings Most Excellent Majesty, for His Houshold and Chappel: For him and <hi>Matthew Turner,</hi> at the Lamb in High <hi>Holborn.</hi> 1687.</p>
+            <pb facs="tcp:211333:3"/>
+            <pb facs="tcp:211333:3"/>
+            <pb facs="tcp:211333:4"/>
+            <pb facs="tcp:211333:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
